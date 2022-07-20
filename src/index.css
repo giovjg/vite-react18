@@ -47,3 +47,8 @@ main {
   margin: 0;
   font-size: 39px;
 }
+
+ul li::marker {
+  color: #61DAFB;
+  font-size: 1.4rem;
+}
